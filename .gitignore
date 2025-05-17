@@ -1,0 +1,11 @@
+# 忽略参考文件
+reference/
+
+# 忽略压缩文件
+*.zip
+*.rar
+
+# 忽略 SolidWorks 临时文件
+~*.sldprt
+~*.sldasm
+~*.slddrw
